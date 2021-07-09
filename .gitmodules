@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "appler"]
+	path = appler
+	url = https://github.com/ashbaldry/appler
+	shallow = true
+	registered = true
+[submodule "shinytitle"]
+	path = shinytitle
+	url = https://github.com/ashbaldry/shinytitle
+	shallow = true
+	registered = true
+[submodule "vstsr"]
+	path = vstsr
+	url = https://github.com/ashbaldry/vstsr
+	shallow = true
+	registered = true

@@ -1,0 +1,14 @@
+[
+  {
+    "package": "appler",
+    "oncran": true
+  },
+  {
+    "package": "shinytitle",
+    "oncran": true
+  },
+  {
+    "package": "vstsr",
+    "oncran": true
+  }
+]
