@@ -1,10 +1,22 @@
 [
   {
-    "package": "appler",
-    "oncran": true
+    "package": "depcheck"
+  },
+  {
+    "package": "fomantic.plus"
   },
   {
     "package": "shinytitle",
+    "oncran": true
+  },
+  {
+    "package": "howler"
+  },
+  {
+    "package": "minifier"
+  },
+  {
+    "package": "appler",
     "oncran": true
   },
   {
