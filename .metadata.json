@@ -3,7 +3,8 @@
     "package": "depcheck"
   },
   {
-    "package": "fomantic.plus"
+    "package": "fomantic.plus",
+    "oncran": false
   },
   {
     "package": "shinytitle",
