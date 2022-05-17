@@ -1,6 +1,7 @@
 [
   {
-    "package": "designer"
+    "package": "designer",
+    "oncran": false
   },
   {
     "package": "depcheck"
