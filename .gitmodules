@@ -28,6 +28,11 @@
 	url = https://github.com/ashbaldry/howler
 	shallow = true
 	registered = true
+[submodule "video"]
+	path = video
+	url = https://github.com/ashbaldry/video
+	shallow = true
+	registered = true
 [submodule "minifier"]
 	path = minifier
 	url = https://github.com/ashbaldry/minifier
