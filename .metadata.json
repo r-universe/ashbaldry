@@ -15,10 +15,12 @@
     "oncran": true
   },
   {
-    "package": "howler"
+    "package": "howler",
+    "oncran": true
   },
   {
-    "package": "video"
+    "package": "video",
+    "oncran": true
   },
   {
     "package": "minifier"
