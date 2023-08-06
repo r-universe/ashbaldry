@@ -1,50 +1,31 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/ashbaldry/universe
-	shallow = true
 	branch = HEAD
-[submodule "designer"]
-	path = designer
-	url = https://github.com/ashbaldry/designer
-	shallow = true
-	registered = true
-[submodule "depcheck"]
-	path = depcheck
-	url = https://github.com/ashbaldry/depcheck
-	shallow = true
-	registered = true
-[submodule "fomantic.plus"]
-	path = fomantic.plus
-	url = https://github.com/ashbaldry/fomantic.plus
-	shallow = true
-	registered = true
-[submodule "shinytitle"]
-	path = shinytitle
-	url = https://github.com/ashbaldry/shinytitle
-	shallow = true
-	registered = true
-[submodule "howler"]
-	path = howler
-	url = https://github.com/ashbaldry/howler
-	shallow = true
-	registered = true
-[submodule "video"]
-	path = video
-	url = https://github.com/ashbaldry/video
-	shallow = true
-	registered = true
-[submodule "minifier"]
-	path = minifier
-	url = https://github.com/ashbaldry/minifier
-	shallow = true
-	registered = true
 [submodule "appler"]
 	path = appler
 	url = https://github.com/ashbaldry/appler
-	shallow = true
-	registered = true
+[submodule "depcheck"]
+	path = depcheck
+	url = https://github.com/ashbaldry/depcheck
+[submodule "designer"]
+	path = designer
+	url = https://github.com/ashbaldry/designer
+[submodule "fomantic.plus"]
+	path = fomantic.plus
+	url = https://github.com/ashbaldry/fomantic.plus
+[submodule "howler"]
+	path = howler
+	url = https://github.com/ashbaldry/howler
+[submodule "minifier"]
+	path = minifier
+	url = https://github.com/ashbaldry/minifier
+[submodule "shinytitle"]
+	path = shinytitle
+	url = https://github.com/ashbaldry/shinytitle
+[submodule "video"]
+	path = video
+	url = https://github.com/ashbaldry/video
 [submodule "vstsr"]
 	path = vstsr
 	url = https://github.com/ashbaldry/vstsr
-	shallow = true
-	registered = true
