@@ -20,6 +20,9 @@
 [submodule "minifier"]
 	path = minifier
 	url = https://github.com/ashbaldry/minifier
+[submodule "shiny.destroy"]
+	path = shiny.destroy
+	url = https://github.com/ashbaldry/shiny.destroy
 [submodule "shinytitle"]
 	path = shinytitle
 	url = https://github.com/ashbaldry/shinytitle
