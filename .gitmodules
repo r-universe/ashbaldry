@@ -23,6 +23,9 @@
 [submodule "shiny.destroy"]
 	path = shiny.destroy
 	url = https://github.com/ashbaldry/shiny.destroy
+[submodule "shinytesters"]
+	path = shinytesters
+	url = https://github.com/ashbaldry/shinytesters
 [submodule "shinytitle"]
 	path = shinytitle
 	url = https://github.com/ashbaldry/shinytitle
